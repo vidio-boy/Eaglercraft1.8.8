@@ -16,6 +16,11 @@
 <p>4. Open the file and let it load.</p>
 </p>
 
+<p>
+<h1>Servers</h1>
+Go to <a href="https://docs.google.com/document/d/1PhUJSb0ojMyhv1Fs8bmVqwANBkySOgdyfRinJto3xnE/edit"<a>this doc</a> to get <b>a list of Multiplayer Server Adresses.</b> I do not own it or edit it in any way.
+</p>
+
 <h1>IMPORTANT!</h1>
 
 <p>
